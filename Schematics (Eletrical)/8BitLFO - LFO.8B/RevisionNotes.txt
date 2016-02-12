@@ -1,0 +1,6 @@
+R0.1 	-> First Implementation
+	-> You picked up the wrong pin, pin12 not pin15.
+	-> You forgot LPF
+	-> Zener clamps NOT TESTED
+	-> Decription at top left broken
+	-> not making major uprev

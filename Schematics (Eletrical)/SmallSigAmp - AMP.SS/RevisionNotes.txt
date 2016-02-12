@@ -1,0 +1,3 @@
+R0.1 -> First Implementation
+R0.2 -> Power Rails updates to match PowerBoard R0.1
+     -> SUPER OUTDATED DON'T CLONE FROM HERE

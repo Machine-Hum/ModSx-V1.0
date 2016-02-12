@@ -1,0 +1,11 @@
+R0.1 -> First Implementation
+R0.2 -> Holy shit .brd NFG... rails were fucked, regulator com fucked,
+	Diodes were fucked... lots of changes from R0.1 to R0.2...
+	CHECK GERBERS OVER AGAIN BEFORE GETTING R0.2 FABBED
+	F0.1.JPEG FOR FIX, NOTE 3 BREAKS, 2 DIODE JUMPS AND 3 OTHER JUMPS
+	5V REGULATOR MOST LIKELY ALSO FUCKED, SO MORE STRIKES & JUMPS THEN
+	SHOWN, HAD NO 5V DURING FIX. Maybe Remove diodes... add imput
+	protection.
+     -> FIX RAILS OUTDATED
+R0.3 -> UGGGGGGGGGGG what the fuck why did you just order 0.2 that was a complete waste of
+	money. Welp now 0.3's happening... 1. 10V Voltage reference 2. POWER JACK JESUS FUCK
