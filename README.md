@@ -18,16 +18,19 @@ customizability, yet keeping the complexity low to the end user.
 PowerBoard
 --------
 ![alt tag](https://raw.githubusercontent.com/Machine-Hum/ModSx-V1.0/master/Media%20(Pictures%20%26%20Videos)/PowerBoard.JPG)
+
 The power board, takes DC Vin from a large right angle screw terminal or power jack and conditions it to +3.3V, +5V, +0.5(Vin) and -0.5(Vin). Vin typical would be +24V, giving a +12V and -12V. 
 
 AuxBreak
 --------
 ![alt tag](https://raw.githubusercontent.com/Machine-Hum/ModSx-V1.0/master/Media%20(Pictures%20%26%20Videos)/AuxBreak.JPG)
+
 The Aux breakout, breaks out standard 3.5mm auxiliary cables into pins. The pins serve as interconnects for signal routing.
 
 Proto Board
 --------
 ![alt tag](https://raw.githubusercontent.com/Machine-Hum/ModSx-V1.0/master/Media%20(Pictures%20%26%20Videos)/ProtoBoard.JPG)
+
 The protoboard is for prototyping future circuits, basic hole patterns on the top for soldering.
 
 8Bit LFO / VCO
@@ -38,6 +41,7 @@ Ideally the same board will be used for 2Khz-20Khz VCO, but I’m worried that t
 Power Amp
 --------
 ![alt tag](https://raw.githubusercontent.com/Machine-Hum/ModSx-V1.0/master/Media%20(Pictures%20%26%20Videos)/PowerAmp.JPG)
+
 The power amp is a 4 channel low wattage amplifier based off the LM386. 
 
 -Walker
